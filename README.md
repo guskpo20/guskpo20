@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently taking a FullStack Web Develompent course
 - 📫 You can reach me on https://www.instagram.com/tavo_ke/
 - 😄 I enjoy creating games
-- ⚡ Fun fact: I never participate in a GameJam (but i want to)
+- ⚡ Fun fact: I have never participated in a GameJam (but i want to)
