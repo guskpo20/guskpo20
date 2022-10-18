@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 ### ⚡Technologies
-Javascript, C#, HTML, CSS, Bootstrap, React, TailwindCSS, Vite.
+Javascript, C#, HTML, CSS, Bootstrap, React, TailwindCSS, NodeJS, MongoD, Vite.
