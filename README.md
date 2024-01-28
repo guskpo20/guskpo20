@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 
 -->
 
-- 🌱 I’m currently working as Front end developer and studying to became a FullStack Web Develompent
+- 🌱 I’m currently working as a FrontEnd developer and studying to became a FullStack Web Develompent
 - 📫 You can reach me on [Instagram](https://www.instagram.com/tavo_ke "Instagram account")
 - ✨ I enjoy creating games and websites
 - 😄 Fun fact: I have never participated in a GameJam (but i want to)
