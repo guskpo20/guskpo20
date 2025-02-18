@@ -2,7 +2,7 @@
 
 I have experience developing web pages and emails with a pixel perfect mentality.
 
-- 🌱 I’m currently working as a FrontEnd developer and studying to became a FullStack Web Develompent
+- 🌱 I am an Email Lead and Frontend Developer. In addition to developing websites and emails, I am responsible for monitoring, documenting, and assisting other developers with email development.
 - 📫 You can reach me on [Instagram](https://www.instagram.com/tavo_ke "Instagram account") or [Linkedin](https://www.linkedin.com/in/gustavo-keymetlian/ "Linkedin account")
 - ✨ In my free time I enjoy developing games
 - 😄 Fun fact: I have never participated in a GameJam (but i want to)
