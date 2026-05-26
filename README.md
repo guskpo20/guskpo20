@@ -7,8 +7,6 @@ I have experience developing web pages and emails with a pixel perfect mentality
 - ✨ In my free time I enjoy developing games
 - 😄 Fun fact: I have never participated in a GameJam (but i want to)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guskpo20&layout=compact&theme=dark)
-
 
 
 ### ⚡Technologies
